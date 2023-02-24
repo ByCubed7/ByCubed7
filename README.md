@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ethan</h1>
-<h3 align="center">A Passionate System Engineer and Student from Bristol</h3>
+<h3 align="center">A Passionate Programmer and Student from Bristol</h3>
 
 - 🌱 I’m currently learning **OpenGL and Advanced Design Principles in Programming**
 
